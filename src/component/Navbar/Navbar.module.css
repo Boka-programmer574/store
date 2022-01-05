@@ -1,0 +1,12 @@
+.nav {
+    display: grid;
+    grid-area: n;
+    /* border: 1px solid gray; */
+    text-align: right;
+    background: snow;
+    
+}
+
+.basket {
+    cursor: pointer;
+}

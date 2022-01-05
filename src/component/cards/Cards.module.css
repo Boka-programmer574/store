@@ -1,0 +1,16 @@
+.card {
+    /* display: flex; */
+    text-align: center;
+    border: 3px solid gray;
+    margin: 10px;
+}
+
+.text1 {
+    padding: 5px;
+
+}
+
+.plus {
+    cursor: pointer;
+    
+}

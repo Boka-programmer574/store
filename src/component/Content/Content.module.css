@@ -1,0 +1,28 @@
+
+
+.cont {
+    display: grid;
+    grid-area: c;
+    
+    background: silver;
+}
+
+.text {
+    
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.inp {
+    
+   margin-left: 1500px;
+   
+   
+}
+.card {
+    display: flex;
+}
